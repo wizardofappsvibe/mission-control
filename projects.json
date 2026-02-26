@@ -1,0 +1,30 @@
+
+[
+  {
+    "id": "mission-control-web-app",
+    "name": "Mission Control Web App",
+    "description": "Centralized hub for all BTS Innovations projects.",
+    "status": "Under Development",
+    "lastUpdate": "Building UI/UX for project display, integrating Jace's updates.",
+    "nextStep": "Implementing dynamic project loading from JSON.",
+    "assignedTo": "Ozzy (Coordination), App Star (UI/UX), Vex (Development Prep)"
+  },
+  {
+    "id": "app-store-ideas-platform",
+    "name": "App Store Ideas Platform",
+    "description": "Identifying trending app ideas and market gaps.",
+    "status": "Research Phase",
+    "lastUpdate": "Analyzing trending apps and competitor landscape.",
+    "nextStep": "Develop initial feature set.",
+    "assignedTo": "Ozzy (Research Lead)"
+  },
+  {
+    "id": "ios-simulator-integration",
+    "name": "iOS Simulator Progress Display",
+    "description": "Visual progress of current iOS app development.",
+    "status": "Blocked - Awaiting Xcode iOS runtime installation.",
+    "lastUpdate": "Cannot list or boot simulators.",
+    "nextStep": "Boss Tammy needs to ensure Xcode and iOS simulator platforms are installed.",
+    "assignedTo": "Ozzy (Integration Lead)"
+  }
+]
