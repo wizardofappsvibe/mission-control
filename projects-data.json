@@ -1,0 +1,146 @@
+[
+  {
+    "id": "melody-maker",
+    "name": "Melody Maker",
+    "slug": "melody-maker",
+    "description": "AI-powered music creation app with instant melody generation",
+    "status": "building",
+    "stage": "build",
+    "agent": "ivy",
+    "startedAt": "2025-02-27",
+    "priority": "high",
+    "icon": "🎵",
+    "color": "#34D399",
+    "briefPath": "/factory/briefs/melody-maker-brief",
+    "buildPath": "/factory/builds/melody-maker",
+    "updates": [
+      {
+        "timestamp": "2025-02-27T14:30:00Z",
+        "agent": "luna",
+        "message": "Market research complete. Found gap in AI melody generation for casual users.",
+        "type": "research"
+      },
+      {
+        "timestamp": "2025-02-27T16:45:00Z",
+        "agent": "blaze",
+        "message": "Brand secured: melodymaker.app domain + @melodymakerapp handles.",
+        "type": "brand"
+      },
+      {
+        "timestamp": "2025-02-27T20:10:00Z",
+        "agent": "ivy",
+        "message": "Started build. Xcode project initialized. SwiftUI layout in progress.",
+        "type": "build"
+      }
+    ],
+    "assets": {
+      "icon": "/factory/builds/melody-maker/icon.png",
+      "screenshots": [],
+      "demoVideo": null,
+      "handoffMd": "/factory/builds/melody-maker/HANDOFF.md"
+    },
+    "metadata": {
+      "appStoreTitle": "Melody Maker - AI Music Creator",
+      "subtitle": "Create original music in seconds",
+      "category": "Music",
+      "keywords": ["music", "ai", "melody", "creator", "beats"],
+      "price": {
+        "free": true,
+        "subscription": true,
+        "subscriptionPrice": "$4.99/month"
+      }
+    }
+  },
+  {
+    "id": "finmind",
+    "name": "FinMind AI",
+    "slug": "finmind",
+    "description": "Personal finance assistant with AI insights",
+    "status": "research",
+    "stage": "research",
+    "agent": "luna",
+    "startedAt": "2025-02-26",
+    "priority": "medium",
+    "icon": "💰",
+    "color": "#E879F9",
+    "briefPath": "/factory/briefs/finmind-brief",
+    "buildPath": null,
+    "updates": [
+      {
+        "timestamp": "2025-02-26T10:00:00Z",
+        "agent": "luna",
+        "message": "Researching personal finance apps. High competition but underserved AI features.",
+        "type": "research"
+      }
+    ],
+    "assets": {
+      "icon": null,
+      "screenshots": [],
+      "demoVideo": null,
+      "handoffMd": null
+    },
+    "metadata": {
+      "appStoreTitle": "FinMind AI - Smart Finance",
+      "subtitle": "AI-powered personal finance",
+      "category": "Finance",
+      "keywords": ["finance", "budget", "ai", "money", "tracker"],
+      "price": {
+        "free": true,
+        "subscription": true,
+        "subscriptionPrice": "$7.99/month"
+      }
+    }
+  },
+  {
+    "id": "life-organizer",
+    "name": "Life Organizer",
+    "slug": "life-organizer",
+    "description": "All-in-one life management with AI scheduling",
+    "status": "design",
+    "stage": "design",
+    "agent": "appstar",
+    "startedAt": "2025-02-25",
+    "priority": "high",
+    "icon": "🗂️",
+    "color": "#F59E0B",
+    "briefPath": "/factory/briefs/life-organizer-brief",
+    "buildPath": null,
+    "updates": [
+      {
+        "timestamp": "2025-02-25T09:00:00Z",
+        "agent": "luna",
+        "message": "Identified market gap for all-in-one life management vs. single-purpose apps.",
+        "type": "research"
+      },
+      {
+        "timestamp": "2025-02-25T15:30:00Z",
+        "agent": "blaze",
+        "message": "lifeorganizer.app secured. Clean trademark check.",
+        "type": "brand"
+      },
+      {
+        "timestamp": "2025-02-26T11:00:00Z",
+        "agent": "appstar",
+        "message": "UI/UX spec complete. Liquid Glass design system defined.",
+        "type": "design"
+      }
+    ],
+    "assets": {
+      "icon": null,
+      "screenshots": [],
+      "demoVideo": null,
+      "handoffMd": "/factory/briefs/life-organizer-brief/design-spec.md"
+    },
+    "metadata": {
+      "appStoreTitle": "Life Organizer - AI Planner",
+      "subtitle": "Your AI life manager",
+      "category": "Productivity",
+      "keywords": ["organizer", "planner", "calendar", "ai", "tasks"],
+      "price": {
+        "free": true,
+        "subscription": true,
+        "subscriptionPrice": "$9.99/month"
+      }
+    }
+  }
+]
